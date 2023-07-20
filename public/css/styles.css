@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Kavivanar';
+  src: url('../fonts/Kavivanar-Regular.eot');
+  src: url('../fonts/Kavivanar-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Kavivanar-Regular.woff2') format('woff2'),
+  url('../fonts/Kavivanar-Regular.woff') format('woff'),
+  url('../fonts/Kavivanar-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "roboto";
+  src: url("../fonts/Roboto-Regular.eot");
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Roboto-Regular.woff2") format("woff2"),
+    url("../fonts/Roboto-Regular.woff") format("woff"),
+    url("../fonts/Roboto-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
